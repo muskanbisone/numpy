@@ -27,7 +27,7 @@ numpy/
 ├── 📓 numpy_complete.ipynb       # Full NumPy — all concepts with code & markdown
 ├── 📓 numpy_mini_projects.ipynb  # Mini projects applying NumPy concepts
 ├── 📁 handwritten-notes/         # Handwritten notes (photos/scans)
-└── README.md
+└── README_1.md
 ```
 
 > 🔄 **More mini projects will be added soon!**
@@ -35,33 +35,19 @@ numpy/
 ---
 
 ## 📚 Concepts Covered (numpy_complete.ipynb)
-
 ### 🔹 1. NumPy Basics
-
 ### 🔹 2. Array Creation
-
 ### 🔹 3. Array Attributes
-
 ### 🔹 4. Indexing & Slicing
-
 ### 🔹 5. Boolean & Fancy Indexing
-
 ### 🔹 6. Array Operations
-
 ### 🔹 7. Broadcasting
-
 ### 🔹 8. Reshaping & Manipulation
-
 ### 🔹 9. Mathematical Functions
-
 ### 🔹 10. Statistical Functions
-
 ### 🔹 11. Linear Algebra (`np.linalg`)
-
 ### 🔹 12. Sorting & Searching
-
 ### 🔹 13. Random Module (`np.random`)
-
 ### 🔹 14. NumPy for Machine Learning
 
 ---
@@ -82,12 +68,12 @@ numpy/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/numpy.git
+git clone https://github.com/muskanbisone/numpy.git
 ```
 
 2. Install requirements:
 ```bash
-pip install numpy jupyter matplotlib
+pip install numpy jupyter notebook
 ```
 
 3. Open notebooks:
@@ -104,7 +90,6 @@ jupyter notebook
 | Python 3.x | Core language |
 | NumPy | Numerical computing |
 | Jupyter Notebook | Interactive coding + markdown notes |
-| Matplotlib | Visualizations in mini projects |
 
 ---
 
@@ -136,4 +121,4 @@ Give this repo a **star ⭐** — it motivates me to keep sharing!
 
 ---
 
-*Made with 💜 while learning Data Science*
+                        *Made with 💜 while learning Data Science*
