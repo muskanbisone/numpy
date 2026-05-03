@@ -45,9 +45,9 @@ numpy/
 ### 🔹 8. Reshaping & Manipulation
 ### 🔹 9. Mathematical Functions
 ### 🔹 10. Statistical Functions
-### 🔹 11. Linear Algebra (`np.linalg`)
+### 🔹 11. Linear Algebra 
 ### 🔹 12. Sorting & Searching
-### 🔹 13. Random Module (`np.random`)
+### 🔹 13. Random Module 
 ### 🔹 14. NumPy for Machine Learning
 
 ---
@@ -58,7 +58,7 @@ numpy/
 |---|---------|-----------------|
 | 1 | 📊 Student Marks Analyzer | mean, std, percentile, axis-wise ops |
 | 2 | 📉 Salary Data Analyzer | adding new coulmn, normalization |
-| 4 | 🔢 Image Processing with numpy ML | dot product, inverse, SVD |
+| 4 | 🔢 Image Processing with numpy ML | rotate, flip, bright |
 | 3 | 🖼️ Mini ML Prediction | Linear model, weight ,bias , loss function |
 | ➕ | More coming soon... | — |
 
